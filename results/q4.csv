@@ -1,0 +1,12 @@
+asset_id,asset_name,owning_department,business_criticality
+SAS-1000,Wissen_Pricing_Model,Actuarial,Critical
+SAS-1002,Schwer_Dashboard_Feed,Risk & Compliance,Critical
+SAS-1013,Arbeit_Dashboard_Feed,Underwriting,Critical
+SAS-1014,Erst_Ad-hoc_Analysis,Risk & Compliance,Critical
+SAS-1016,Stein_ETL_Job,Underwriting,High
+SAS-1026,Vogel_Ad-hoc_Analysis,Marketing Analytics,Critical
+SAS-1033,Leben_Regulatory_Report,Risk & Compliance,Critical
+SAS-1038,Erschrecken_Dashboard_Feed,Marketing Analytics,High
+SAS-1039,Davon_Regulatory_Report,Finance,High
+SAS-1044,Essen_Actuarial_Model,Actuarial,High
+SAS-1046,Wagen_Ad-hoc_Analysis,Actuarial,High

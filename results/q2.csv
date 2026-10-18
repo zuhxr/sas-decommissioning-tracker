@@ -1,0 +1,16 @@
+asset_id,asset_name,owning_department,est_cost_eur,last_run_date
+SAS-1011,Frau_Pricing_Model,Underwriting,38700,2023-11-28
+SAS-1052,Baden_Regulatory_Report,Marketing Analytics,38500,2024-08-07
+SAS-1006,Minutenmir_Actuarial_Model,Marketing Analytics,33000,2023-10-18
+SAS-1010,Nass_Actuarial_Model,Actuarial,24300,2024-05-19
+SAS-1047,Fest_Regulatory_Report,Underwriting,24000,2023-10-19
+SAS-1054,Reiten_Ad-hoc_Analysis,Claims,22000,2024-02-25
+SAS-1001,Wo_Pricing_Model,Risk & Compliance,21750,2023-10-24
+SAS-1035,Zurück_Pricing_Model,Claims,20250,2024-05-22
+SAS-1021,Treffen_Dashboard_Feed,Marketing Analytics,18900,2024-06-28
+SAS-1007,Stark_Ad-hoc_Analysis,Claims,18750,2023-10-25
+SAS-1027,Schaffen_ETL_Job,Actuarial,15400,2024-08-30
+SAS-1055,Werden_Ad-hoc_Analysis,Marketing Analytics,14300,2024-04-16
+SAS-1041,Laut_Regulatory_Report,Actuarial,14250,2023-09-29
+SAS-1003,Brot_ETL_Job,Actuarial,13200,2024-01-27
+SAS-1028,Glauben_ETL_Job,Underwriting,5400,2024-09-17

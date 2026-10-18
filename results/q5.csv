@@ -1,0 +1,7 @@
+migration_status,count,percentage
+Decommissioned,11,18.33
+Discovery,7,11.67
+In migration,16,26.67
+Migrated,13,21.67
+Not started,8,13.33
+Testing,5,8.33

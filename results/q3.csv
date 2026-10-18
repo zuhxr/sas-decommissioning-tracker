@@ -1,0 +1,20 @@
+asset_id,asset_name,owning_department,business_criticality
+SAS-1000,Wissen_Pricing_Model,Actuarial,Critical
+SAS-1001,Wo_Pricing_Model,Risk & Compliance,Critical
+SAS-1006,Minutenmir_Actuarial_Model,Marketing Analytics,Critical
+SAS-1007,Stark_Ad-hoc_Analysis,Claims,Medium
+SAS-1011,Frau_Pricing_Model,Underwriting,High
+SAS-1012,Fisch_Pricing_Model,Risk & Compliance,Medium
+SAS-1018,Hilfe_Dashboard_Feed,Risk & Compliance,Low
+SAS-1023,Sache_Regulatory_Report,Marketing Analytics,Medium
+SAS-1028,Glauben_ETL_Job,Underwriting,High
+SAS-1029,Den_Actuarial_Model,Finance,Medium
+SAS-1034,Ein_Dashboard_Feed,Actuarial,Medium
+SAS-1037,Frage_ETL_Job,Finance,Low
+SAS-1041,Laut_Regulatory_Report,Actuarial,Medium
+SAS-1045,Oben_Regulatory_Report,Claims,Medium
+SAS-1046,Wagen_Ad-hoc_Analysis,Actuarial,High
+SAS-1048,Auge_Actuarial_Model,Finance,Critical
+SAS-1049,Wagen_ETL_Job,Marketing Analytics,Medium
+SAS-1055,Werden_Ad-hoc_Analysis,Marketing Analytics,Medium
+SAS-1058,Ging_Actuarial_Model,Marketing Analytics,High

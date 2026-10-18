@@ -1,0 +1,61 @@
+asset_id,asset_name,asset_type,owning_department,business_criticality,last_run_date,est_migration_days,day_rate_eur,target_platform,migration_status,contains_personal_data,ai_act_relevant,assigned_owner,est_cost_eur
+SAS-1000,Wissen_Pricing_Model,Pricing Model,Actuarial,Critical,2024-12-27,19,750,SQL / Snowflake,Discovery,True,True,,14250
+SAS-1001,Wo_Pricing_Model,Pricing Model,Risk & Compliance,Critical,2023-10-24,29,750,Python / Databricks,Not started,True,True,Univ.Prof. Korinna Koch,21750
+SAS-1002,Schwer_Dashboard_Feed,Dashboard Feed,Risk & Compliance,Critical,2025-01-27,14,1100,Decommission - no replacement,Discovery,False,False,,15400
+SAS-1003,Brot_ETL_Job,ETL Job,Actuarial,Medium,2024-01-27,12,1100,Decommission - no replacement,In migration,False,False,Dolores Anders-Pergande,13200
+SAS-1004,Freuen_Actuarial_Model,Actuarial Model,Claims,High,2025-09-07,26,750,Power BI,In migration,False,True,Mirko Jopich,19500
+SAS-1005,Klasse_Pricing_Model,Pricing Model,Underwriting,Medium,2026-05-29,26,750,Power BI,Decommissioned,False,True,,19500
+SAS-1006,Minutenmir_Actuarial_Model,Actuarial Model,Marketing Analytics,Critical,2023-10-18,44,750,Power BI,Not started,True,True,Ing. Krista Karge,33000
+SAS-1007,Stark_Ad-hoc_Analysis,Ad-hoc Analysis,Claims,Medium,2023-10-25,25,750,Power BI,In migration,True,False,,18750
+SAS-1008,Apfel_ETL_Job,ETL Job,Marketing Analytics,Low,2026-01-20,43,750,SQL / Snowflake,Migrated,True,False,Ing. Piotr Nohlmans B.A.,32250
+SAS-1009,Mein_Ad-hoc_Analysis,Ad-hoc Analysis,Underwriting,High,2024-06-27,42,1100,SQL / Snowflake,Decommissioned,False,False,Univ.Prof. Henry Döring MBA.,46200
+SAS-1010,Nass_Actuarial_Model,Actuarial Model,Actuarial,Low,2024-05-19,27,900,Python / Databricks,Discovery,False,True,Ing. Frauke Klingelhöfer B.Sc.,24300
+SAS-1011,Frau_Pricing_Model,Pricing Model,Underwriting,High,2023-11-28,43,900,SQL / Snowflake,In migration,True,True,Marius Bolander,38700
+SAS-1012,Fisch_Pricing_Model,Pricing Model,Risk & Compliance,Medium,2025-06-01,39,900,Decommission - no replacement,In migration,True,True,Tomasz Preiß,35100
+SAS-1013,Arbeit_Dashboard_Feed,Dashboard Feed,Underwriting,Critical,2024-07-03,5,750,SQL / Snowflake,Decommissioned,True,False,,3750
+SAS-1014,Erst_Ad-hoc_Analysis,Ad-hoc Analysis,Risk & Compliance,Critical,2023-11-18,26,1100,Decommission - no replacement,Migrated,False,False,,28600
+SAS-1015,Jahr_Regulatory_Report,Regulatory Report,Marketing Analytics,Medium,2024-05-16,45,1100,Power BI,Decommissioned,False,False,Philip Heser,49500
+SAS-1016,Stein_ETL_Job,ETL Job,Underwriting,High,2024-11-19,2,1100,Power BI,Migrated,True,False,,2200
+SAS-1017,Um_Regulatory_Report,Regulatory Report,Marketing Analytics,High,2024-12-14,42,1100,SQL / Snowflake,Discovery,False,False,Hartwig Ackermann MBA.,46200
+SAS-1018,Hilfe_Dashboard_Feed,Dashboard Feed,Risk & Compliance,Low,2024-12-12,40,900,Decommission - no replacement,Not started,True,False,Dipl.-Ing. Verena Löchel B.Sc.,36000
+SAS-1019,Weg_ETL_Job,ETL Job,Finance,Critical,2024-08-01,38,750,Python / Databricks,Decommissioned,False,False,Hans-Hinrich Hertrampf B.Eng.,28500
+SAS-1020,Stein_Dashboard_Feed,Dashboard Feed,Finance,High,2025-07-14,32,1100,SQL / Snowflake,In migration,False,False,Ing. Olav Austermühle B.A.,35200
+SAS-1021,Treffen_Dashboard_Feed,Dashboard Feed,Marketing Analytics,Medium,2024-06-28,21,900,Power BI,Testing,False,False,Dipl.-Ing. Lorenzo Döring,18900
+SAS-1022,Kam_Actuarial_Model,Actuarial Model,Finance,Critical,2025-11-24,3,1100,SQL / Snowflake,Migrated,True,True,Hans-Martin Finke,3300
+SAS-1023,Sache_Regulatory_Report,Regulatory Report,Marketing Analytics,Medium,2025-02-03,16,750,Python / Databricks,In migration,True,False,,12000
+SAS-1024,Jetzt_Actuarial_Model,Actuarial Model,Claims,Medium,2026-07-01,15,1100,SQL / Snowflake,Decommissioned,False,True,Frau Leyla Trubin B.A.,16500
+SAS-1025,Flasche_Ad-hoc_Analysis,Ad-hoc Analysis,Underwriting,High,2024-11-29,8,1100,Decommission - no replacement,In migration,False,False,Georgios Spieß,8800
+SAS-1026,Vogel_Ad-hoc_Analysis,Ad-hoc Analysis,Marketing Analytics,Critical,2025-08-03,43,1100,Python / Databricks,Not started,False,False,,47300
+SAS-1027,Schaffen_ETL_Job,ETL Job,Actuarial,High,2024-08-30,14,1100,Decommission - no replacement,Discovery,False,False,Isidor Henk-Gnatz,15400
+SAS-1028,Glauben_ETL_Job,ETL Job,Underwriting,High,2024-09-17,6,900,Python / Databricks,Not started,True,False,Gudula Wieloch,5400
+SAS-1029,Den_Actuarial_Model,Actuarial Model,Finance,Medium,2025-01-01,32,750,Decommission - no replacement,Not started,True,True,Ing. Michel Ring,24000
+SAS-1030,Alle_Regulatory_Report,Regulatory Report,Underwriting,High,2023-11-21,31,900,Decommission - no replacement,Decommissioned,False,False,Prof. Madeleine Klapp B.Sc.,27900
+SAS-1031,Heiß_Actuarial_Model,Actuarial Model,Claims,High,2023-11-13,5,1100,Python / Databricks,Decommissioned,False,True,Ing. Etta Carsten B.Eng.,5500
+SAS-1032,Arbeiten_Regulatory_Report,Regulatory Report,Risk & Compliance,Medium,2024-08-08,35,750,Python / Databricks,Migrated,True,False,Anastasia Paffrath,26250
+SAS-1033,Leben_Regulatory_Report,Regulatory Report,Risk & Compliance,Critical,2025-08-22,17,900,Python / Databricks,Migrated,True,False,,15300
+SAS-1034,Ein_Dashboard_Feed,Dashboard Feed,Actuarial,Medium,2024-10-27,28,1100,Power BI,In migration,True,False,,30800
+SAS-1035,Zurück_Pricing_Model,Pricing Model,Claims,High,2024-05-22,27,750,Power BI,Testing,False,True,Johannes Scholtz,20250
+SAS-1036,Schwester_Regulatory_Report,Regulatory Report,Underwriting,Medium,2026-08-29,38,750,Python / Databricks,Migrated,True,False,,28500
+SAS-1037,Frage_ETL_Job,ETL Job,Finance,Low,2026-07-18,6,750,Power BI,In migration,True,False,Oxana Zorbach,4500
+SAS-1038,Erschrecken_Dashboard_Feed,Dashboard Feed,Marketing Analytics,High,2024-04-10,43,1100,Python / Databricks,Decommissioned,False,False,,47300
+SAS-1039,Davon_Regulatory_Report,Regulatory Report,Finance,High,2026-05-01,8,1100,SQL / Snowflake,In migration,False,False,,8800
+SAS-1040,Gern_Actuarial_Model,Actuarial Model,Marketing Analytics,High,2025-01-26,45,1100,Power BI,Migrated,False,True,Gerlinde Heydrich,49500
+SAS-1041,Laut_Regulatory_Report,Regulatory Report,Actuarial,Medium,2023-09-29,19,750,Python / Databricks,In migration,True,False,,14250
+SAS-1042,Minutenmir_ETL_Job,ETL Job,Finance,Medium,2025-09-29,37,1100,Decommission - no replacement,Migrated,True,False,Dipl.-Ing. Günther Ackermann,40700
+SAS-1043,Hören_Regulatory_Report,Regulatory Report,Marketing Analytics,Low,2023-12-25,36,750,Power BI,Migrated,True,False,Oswin Wähner,27000
+SAS-1044,Essen_Actuarial_Model,Actuarial Model,Actuarial,High,2026-07-29,4,900,SQL / Snowflake,Decommissioned,True,True,,3600
+SAS-1045,Oben_Regulatory_Report,Regulatory Report,Claims,Medium,2026-03-28,28,1100,SQL / Snowflake,Discovery,True,False,Paolo Drubin,30800
+SAS-1046,Wagen_Ad-hoc_Analysis,Ad-hoc Analysis,Actuarial,High,2026-07-02,23,900,SQL / Snowflake,In migration,True,False,,20700
+SAS-1047,Fest_Regulatory_Report,Regulatory Report,Underwriting,Low,2023-10-19,32,750,SQL / Snowflake,Testing,False,False,Adolfine Käster,24000
+SAS-1048,Auge_Actuarial_Model,Actuarial Model,Finance,Critical,2025-11-18,14,900,Power BI,In migration,True,True,Fredo Wende-Weihmann,12600
+SAS-1049,Wagen_ETL_Job,ETL Job,Marketing Analytics,Medium,2025-06-23,45,1100,Power BI,Not started,True,False,Riza Scheuermann,49500
+SAS-1050,Sollen_Actuarial_Model,Actuarial Model,Risk & Compliance,Low,2025-06-02,18,750,Python / Databricks,Migrated,False,True,Else Lindner,13500
+SAS-1051,Will_Pricing_Model,Pricing Model,Claims,Medium,2026-05-01,34,750,Decommission - no replacement,Migrated,True,True,Natali Eimer B.Sc.,25500
+SAS-1052,Baden_Regulatory_Report,Regulatory Report,Marketing Analytics,Medium,2024-08-07,35,1100,SQL / Snowflake,In migration,False,False,Dr. Stephanie Lange B.Eng.,38500
+SAS-1053,Mit_Pricing_Model,Pricing Model,Claims,Medium,2024-02-11,44,750,Power BI,Migrated,False,True,,33000
+SAS-1054,Reiten_Ad-hoc_Analysis,Ad-hoc Analysis,Claims,Medium,2024-02-25,20,1100,SQL / Snowflake,Discovery,False,False,,22000
+SAS-1055,Werden_Ad-hoc_Analysis,Ad-hoc Analysis,Marketing Analytics,Medium,2024-04-16,13,1100,Power BI,Testing,True,False,Meryem Klotz,14300
+SAS-1056,Nass_ETL_Job,ETL Job,Finance,Medium,2025-10-31,39,1100,Power BI,Testing,False,False,Alexa Heser,42900
+SAS-1057,Essen_Pricing_Model,Pricing Model,Finance,Medium,2026-03-14,12,1100,Python / Databricks,In migration,False,True,Kuno Gude,13200
+SAS-1058,Ging_Actuarial_Model,Actuarial Model,Marketing Analytics,High,2025-09-23,14,750,Python / Databricks,Not started,True,True,Rolf-Dieter Losekann,10500
+SAS-1059,Stelle_Dashboard_Feed,Dashboard Feed,Actuarial,Medium,2025-10-08,42,1100,SQL / Snowflake,Decommissioned,False,False,Sarina Schaaf,46200

@@ -1,0 +1,13 @@
+asset_id,asset_name,owning_department,business_criticality,asset_type
+SAS-1000,Wissen_Pricing_Model,Actuarial,Critical,Pricing Model
+SAS-1001,Wo_Pricing_Model,Risk & Compliance,Critical,Pricing Model
+SAS-1004,Freuen_Actuarial_Model,Claims,High,Actuarial Model
+SAS-1006,Minutenmir_Actuarial_Model,Marketing Analytics,Critical,Actuarial Model
+SAS-1010,Nass_Actuarial_Model,Actuarial,Low,Actuarial Model
+SAS-1011,Frau_Pricing_Model,Underwriting,High,Pricing Model
+SAS-1012,Fisch_Pricing_Model,Risk & Compliance,Medium,Pricing Model
+SAS-1029,Den_Actuarial_Model,Finance,Medium,Actuarial Model
+SAS-1035,Zurück_Pricing_Model,Claims,High,Pricing Model
+SAS-1048,Auge_Actuarial_Model,Finance,Critical,Actuarial Model
+SAS-1057,Essen_Pricing_Model,Finance,Medium,Pricing Model
+SAS-1058,Ging_Actuarial_Model,Marketing Analytics,High,Actuarial Model
